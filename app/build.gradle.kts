@@ -52,4 +52,5 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("androidx.coordinatorlayout:coordinatorlayout:1.2.0")
     implementation ("com.airbnb.android:lottie:6.1.0")
+    implementation("com.google.code.gson:gson:2.10.1")
 }
